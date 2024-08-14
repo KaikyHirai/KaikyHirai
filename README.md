@@ -2,7 +2,7 @@
 
 ##
 
-### 💻 Conhecimento básico nas tecnologias:
+### 💻 Conhecimento nas tecnologias:
 
 <div>
     <img width="40" alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -11,17 +11,11 @@
     <img width="40" alt="Bootstrap" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
     <img width="40" alt="C#" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img width="40" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    
+    <img width="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
+    <img width="40" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>     
 </div>          
 
 <br>
-
-### 📕 Aprendendo:
-
-<div>
-    <img width="40" alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />      
-    <img width="40" alt="php" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>      
-</div>
 
 ##
 ### 🤵 Redes Sociais:
